@@ -1,7 +1,7 @@
 import Hello from "../components/hello";
 
 const Home =  () => {
-  console.log(`Wha type of next js am i?`);
+  throw new Error(`Not implemented!`)
   
 
   return (
